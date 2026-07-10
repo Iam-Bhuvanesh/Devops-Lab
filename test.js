@@ -1,2 +1,3 @@
-"console log('Testing git local repository');" 
-"console
+
+i am arivu
+studying in cit
